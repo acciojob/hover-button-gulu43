@@ -4,6 +4,7 @@
 	color:white;
 	border-radius:5px;
 	border:none;
+	content:Only plain text without any additional tags inside the button;
 }
 #btn:hover {
 	background-color: yellow;
